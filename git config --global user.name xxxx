@@ -1,0 +1,6 @@
+git config --global user.name Yuihanada
+
+git config --global user.email hanadayui1219@gmail.com
+
+git config --list
+
